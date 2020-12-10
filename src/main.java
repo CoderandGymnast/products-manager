@@ -65,12 +65,6 @@ class Main {
 	}
 
 	public static void main(String[] args){
-//		list.add("Sonic", 100, 10);
-//		list.add("Sonic", 100, 10);
-//		boolean status = list.update(2, "Engineer", 100, 10);
-//		ArrayList<Product> response = list.search("i");
-//		list.display(response);
-
 		while(true) {
 
 			list.displayOperations();
